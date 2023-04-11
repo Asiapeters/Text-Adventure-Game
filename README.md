@@ -1,2 +1,2 @@
 # Text-Adventure-Game
-A text-based adventure game made using Python
+To travel through the many rooms and obtain objects from each area, the game needs players to enter commands into a command line terminal. The goal of the game is for the player to collect every item before stumbling across the villain's room. The player will need a text output at every stage of the game to indicate their location and a choice as to whether or not they want to get the object in each area.
